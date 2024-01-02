@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @harshPareek-git
+- 👋 Hi, I’m Harsh Pareek
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning open souce contributions
+- I code in Java and love to contribute to web developement using MERN stack
+- 🌱 I’m currently learning to updgrade my skills by contributing to open source codebases
 - 💞️ I’m looking to collaborate in open souce
 - 📫 How to reach me https://www.linkedin.com/in/harsh-pareek-02543b191
 
